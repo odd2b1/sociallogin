@@ -55,3 +55,4 @@ D:\sociallogin\sociallogin\Demo\Demo\obj\Debug\Demo.dll
 D:\sociallogin\sociallogin\Demo\Demo\obj\Debug\Demo.pdb
 D:\sociallogin\sociallogin\Demo\Demo\bin\Newtonsoft.Json.dll
 D:\sociallogin\sociallogin\Demo\Demo\bin\Newtonsoft.Json.xml
+D:\sociallogin\sociallogin\Demo\Demo\obj\Debug\Demo.csprojAssemblyReference.cache

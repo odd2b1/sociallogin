@@ -27,7 +27,7 @@ namespace Demo
                 }
                 else
                 {
-                    lblerror.Text = result.showerror.error.message;
+                    lblerror.Text = result.error.message;
                 }
             }
         }
